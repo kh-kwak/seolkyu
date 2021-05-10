@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/seolkyu/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/seolkyu/static/js/main.acfa7837.chunk.js",
-    "main.js.map": "/seolkyu/static/js/main.acfa7837.chunk.js.map",
-    "runtime-main.js": "/seolkyu/static/js/runtime-main.77987664.js",
-    "runtime-main.js.map": "/seolkyu/static/js/runtime-main.77987664.js.map",
-    "static/js/2.eecd64de.chunk.js": "/seolkyu/static/js/2.eecd64de.chunk.js",
-    "static/js/2.eecd64de.chunk.js.map": "/seolkyu/static/js/2.eecd64de.chunk.js.map",
-    "static/js/3.a0955ce5.chunk.js": "/seolkyu/static/js/3.a0955ce5.chunk.js",
-    "static/js/3.a0955ce5.chunk.js.map": "/seolkyu/static/js/3.a0955ce5.chunk.js.map",
+    "main.css": "/seolkyu/static/css/main.b30f3f7c.chunk.css",
+    "main.js": "/seolkyu/static/js/main.26a13c75.chunk.js",
+    "main.js.map": "/seolkyu/static/js/main.26a13c75.chunk.js.map",
+    "runtime-main.js": "/seolkyu/static/js/runtime-main.bf3d6880.js",
+    "runtime-main.js.map": "/seolkyu/static/js/runtime-main.bf3d6880.js.map",
+    "static/js/2.54ceb6dc.chunk.js": "/seolkyu/static/js/2.54ceb6dc.chunk.js",
+    "static/js/2.54ceb6dc.chunk.js.map": "/seolkyu/static/js/2.54ceb6dc.chunk.js.map",
+    "static/js/3.2069986d.chunk.js": "/seolkyu/static/js/3.2069986d.chunk.js",
+    "static/js/3.2069986d.chunk.js.map": "/seolkyu/static/js/3.2069986d.chunk.js.map",
     "index.html": "/seolkyu/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/seolkyu/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.eecd64de.chunk.js.LICENSE.txt": "/seolkyu/static/js/2.eecd64de.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/seolkyu/static/media/logo.6ce24c58.svg"
+    "static/css/main.b30f3f7c.chunk.css.map": "/seolkyu/static/css/main.b30f3f7c.chunk.css.map",
+    "static/js/2.54ceb6dc.chunk.js.LICENSE.txt": "/seolkyu/static/js/2.54ceb6dc.chunk.js.LICENSE.txt",
+    "static/media/date.d5071ac6.png": "/seolkyu/static/media/date.d5071ac6.png",
+    "static/media/logo.dcddd10f.png": "/seolkyu/static/media/logo.dcddd10f.png",
+    "static/media/thumbnail.e8273208.png": "/seolkyu/static/media/thumbnail.e8273208.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.77987664.js",
-    "static/js/2.eecd64de.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.acfa7837.chunk.js"
+    "static/js/runtime-main.bf3d6880.js",
+    "static/js/2.54ceb6dc.chunk.js",
+    "static/css/main.b30f3f7c.chunk.css",
+    "static/js/main.26a13c75.chunk.js"
   ]
 }
